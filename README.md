@@ -1,1 +1,1 @@
-# acadPro
+# acadimeProject
